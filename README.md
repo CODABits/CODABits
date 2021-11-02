@@ -1,4 +1,4 @@
-### Hola Reclutadores 👋
+### Cordial saludo a todos 👋
 
 <!--
 **CODABits/CODABits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image](https://codabits.github.io/campanapsicosocial/assets/img/psicologo.png)
-![image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Universidad-de-manizales-logo.jpg)
+
 
 
 
 
 
 ## SOBRE LA PRÁCTICA 
+
+## Hospital San Marcos
 La E.S.E Hospital San Marcos está ubicada en Chinchina, Caldas y presta servicios integrales de salud, de excelente calidad, con los mejores recursos humanos, técnicos y científicos; generando satisfacción, rentabilidad social y económica.
+
+## Hospital san Isidro
+Somos una Empresa Social del Estado que brinda servicios de salud en la baja y mediana complejidad, cumpliendo estándares de calidad soportados en la atención segura, humanizada y centrada en el usuario; comprometidos con el mejoramiento de la calidad de vida de la población, la gestión ambiental, la formación académica y la investigación .
 
 
 ### ÁREAS🚀
@@ -58,6 +63,8 @@ My main strengths💪
 - Fast learning
 - Empathy and responsibility
 - Self-Motivation
+
+![image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Universidad-de-manizales-logo.jpg)
 
 ### FUNCIONES 🚀
 

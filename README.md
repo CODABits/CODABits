@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://codabits.github.io/campanapsicosocial/assets/img/psicologo.png)
 ![image](http://www.afacom.org/images/Logo_U-Manizales_2010_JPG_actual.jpg)
 ![image](https://cdn.pixabay.com/photo/2020/05/17/05/53/doctor-5180142_960_720.png)

@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Universidad-de-manizales-logo.jpg)
 ![image](https://codabits.github.io/campanapsicosocial/assets/img/psicologo.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Universidad-de-manizales-logo.jpg)
+
 
 
 

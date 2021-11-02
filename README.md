@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Reclutadores 👋
 
 <!--
 **CODABits/CODABits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,15 +21,19 @@ Here are some ideas to get you started:
 
 
 
-## ABOUT 
+## SOBRE LA PRÁCTICA 
+La E.S.E Hospital San Marcos está ubicada en Chinchina, Caldas y presta servicios integrales de salud, de excelente calidad, con los mejores recursos humanos, técnicos y científicos; generando satisfacción, rentabilidad social y económica.
+
+
 ### ÁREAS🚀
 My formation is MG Psychology and the basics in Web Developer.
 I´m interested in continue learning in the skin of any company to grow in the skills programming.
 I´d like Collaborate with projects linked to Solutions in:
 
-- Mental Health Coaching for Programmers🤹‍♀️
-- Web Development in Psychoeducational Health care programs and universities🏅
-- Training Company
+- Hospitalización🤹‍♀️
+- Urgencias🏅
+- Parto
+- Pediatría
 
 My main strengths💪
 

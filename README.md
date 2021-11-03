@@ -36,7 +36,7 @@ Somos una Empresa Social del Estado que brinda servicios de salud en la baja y m
 
 ### Áreas🚀
 - Unidad de salud Mental Integral🤹‍♀️
-- Hospitalización Larga estancia: Geriátrico 
+- Hospitalización Geriátrico: Larga estancia
 
 ### Áreas🚀
 My formation is MG Psychology and the basics in Web Developer.

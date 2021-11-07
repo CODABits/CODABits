@@ -38,6 +38,7 @@ Somos una Empresa Social del Estado que brinda servicios de salud en la baja y m
 - Unidad de salud Mental Integral🤹‍♀️
 - Hospitalización Geriátrico: Larga estancia
 
+<!--
 ### Áreas🚀
 My formation is MG Psychology and the basics in Web Developer.
 I´m interested in continue learning in the skin of any company to grow in the skills programming.
@@ -81,7 +82,7 @@ I´d like Collaborate with projects linked to Solutions in:
 - Web Development in Psychoeducational Health care programs and universities🏅
 - Training Company
 
-My main strengths💪
+My main strengths💪 -->
 
 
 - Clínico

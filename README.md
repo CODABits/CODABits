@@ -29,14 +29,14 @@ La E.S.E Hospital San Marcos está ubicada en Chinchina, Caldas y presta servi
 - Parto
 - Pediatría
 
-
+<!--
 ### Hospital General San Isidro ESE
 Somos una Empresa Social del Estado que brinda servicios de salud en la baja y mediana complejidad, cumpliendo estándares de calidad soportados en la atención segura, humanizada y centrada en el usuario; comprometidos con el mejoramiento de la calidad de vida de la población, la gestión ambiental, la formación académica y la investigación .
 
 
 ### Áreas🚀
 - Unidad de salud Mental Integral🤹‍♀️
-- Hospitalización Geriátrico: Larga estancia
+- Hospitalización Geriátrico: Larga estancia-->
 
 <!--
 ### Áreas🚀

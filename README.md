@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## SOBRE LAS PRÁCTICAS CLÍNICAS 
 
-### Hospital San Marcos
-La E.S.E Hospital San Marcos está ubicada en Chinchina, Caldas y presta servicios integrales de salud, de excelente calidad, con los mejores recursos humanos, técnicos y científicos; generando satisfacción, rentabilidad social y económica.
+### Hospital 
+La E.S.E presta servicios integrales de salud, de excelente calidad, con los mejores recursos humanos, técnicos y científicos; generando satisfacción, rentabilidad social y económica.
 
 
 ### Áreas🚀
